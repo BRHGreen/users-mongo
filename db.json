@@ -1,20 +1,43 @@
 {
   "users": [
     {
-      "firstName": "Alex",
-      "age": 10,
-      "componyId": "2"
+      "userName": "alex",
+      "email": "alex@alex.com",
+      "password": "password",
     },
     {
-      "firstName": "Nick",
-      "age": 40,
-      "componyId": "2"
+      "userName": "rane",
+      "email": "rane@rane.com",
+      "password": "password",
     },
     {
-      "firstName": "Stephen",
-      "age": 26,
-      "id": "HkrBCg8Yb"
+      "userName": "ben",
+      "email": "ben@ben.com",
+      "password": "password",
     }
+  ],
+  "usersProfiles": [
+    {
+      "firstName": "Alex",
+      "lastName": "Chin",
+      "age": 29,
+      "occupation": "WDI Tutor",
+      "bio": "Coding is my life. Teaching is my life. I have two lives"
+    },
+    {
+      "firstName": "Rane",
+      "lastName": "Gowen",
+      "age": 29,
+      "occupation": "WDI Tutor",
+      "bio": "Trainers are my life. Coding is my life. Teaching is my life. I have three lives"
+    },
+    {
+      "firstName": "Ben",
+      "lastName": "Green",
+      "age": 29,
+      "occupation": "Web Developer",
+      "bio": "Bikes are my life. Music is my life. Puns are my life. I have four lives"
+    },
   ],
   "companies": [
     {
